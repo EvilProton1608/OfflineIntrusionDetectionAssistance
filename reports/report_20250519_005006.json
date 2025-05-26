@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "suspiciousProcessCount": 0,
+    "suspiciousFileCount": 1,
+    "highEntropyFileCount": 0
+  },
+  "suspiciousProcesses": [],
+  "suspiciousFiles": [{
+    "fileName": "suspicious_scan.json",
+    "entropy": 5.094189426948205,
+    "highEntropy": false,
+    "hash": "271ef4006d86132f56ef6b09553bda0a01cb174569de569b93467430468526a6",
+    "status": "Unknown"
+  }],
+  "reportGeneratedAt": "2025-05-19 00:50:06"
+}

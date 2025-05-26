@@ -1,0 +1,18 @@
+[
+  {
+    "fileName": "abc.txt",
+    "hash": "4160a64fdf3621d7b4e1bf76bb50b63510ad2571fc45187a5c62a78c2a725e72"
+  },
+  {
+    "fileName": "baseline.json",
+    "hash": "3fe181222d9de173f9f888011944015ca62f975a57ef42337e8e64b81ee327a4"
+  },
+  {
+    "fileName": "commons-codec-1.18.0-bin.zip",
+    "hash": "bb35f3b691624c04a1152e1a7ce32c0766fe33fb9692d36747dc955a62e5ef7f"
+  },
+  {
+    "fileName": "Toursitcrowdmanagement.zip",
+    "hash": "20aef64e74bb1102b84f8beffb44927c319376c3ad902215e7c5f871cd01ddff"
+  }
+]

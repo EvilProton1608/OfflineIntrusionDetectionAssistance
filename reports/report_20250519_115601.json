@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "suspiciousProcessCount": 0,
+    "suspiciousFileCount": 3,
+    "highEntropyFileCount": 1
+  },
+  "suspiciousProcesses": [],
+  "suspiciousFiles": [
+    {
+      "fileName": "abc.txt",
+      "entropy": 3.7735572622751845,
+      "highEntropy": false,
+      "hash": "6532aa070167441bf0b18895ee02bb8b7e5abd2192e7fe58735442d69ce788f5",
+      "status": "Changed"
+    },
+    {
+      "fileName": "commons-codec-1.18.0-bin.zip",
+      "entropy": 7.99684620375678,
+      "highEntropy": true,
+      "hash": "bb35f3b691624c04a1152e1a7ce32c0766fe33fb9692d36747dc955a62e5ef7f",
+      "status": "Known"
+    },
+    {
+      "fileName": "suspicious_scan.json",
+      "entropy": 5.003868941780875,
+      "highEntropy": false,
+      "hash": "e543f97b81487a64476e1050f6a924bd9e35297f5f2a6068732f669069572226",
+      "status": "Unknown"
+    }
+  ],
+  "reportGeneratedAt": "2025-05-19 11:56:01"
+}

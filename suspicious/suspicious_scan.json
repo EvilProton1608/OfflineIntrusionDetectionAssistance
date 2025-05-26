@@ -1,0 +1,30 @@
+[
+  {
+    "fileName": "abc.txt",
+    "entropy": 3.7735572622751845,
+    "highEntropy": false,
+    "hash": "6532aa070167441bf0b18895ee02bb8b7e5abd2192e7fe58735442d69ce788f5",
+    "status": "Changed"
+  },
+  {
+    "fileName": "commons-codec-1.18.0-bin.zip",
+    "entropy": 7.99684620375678,
+    "highEntropy": true,
+    "hash": "bb35f3b691624c04a1152e1a7ce32c0766fe33fb9692d36747dc955a62e5ef7f",
+    "status": "Known"
+  },
+  {
+    "fileName": "suspicious_scan.json",
+    "entropy": 5.01386850518452,
+    "highEntropy": false,
+    "hash": "2092856aec283be5c82973617f1630e40bfe01637c74f9e4a0968504e4957688",
+    "status": "Unknown"
+  },
+  {
+    "fileName": "Toursitcrowdmanagement.zip",
+    "entropy": 7.991579013348256,
+    "highEntropy": true,
+    "hash": "20aef64e74bb1102b84f8beffb44927c319376c3ad902215e7c5f871cd01ddff",
+    "status": "Known"
+  }
+]
