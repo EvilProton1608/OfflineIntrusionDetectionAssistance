@@ -1,11 +1,11 @@
 package monitoring1;
 
-import org.json.JSONObject;
-import org.json.JSONArray;
-
 import java.io.File;
 import java.io.FileWriter;
-import java.util.Objects;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 
 public class BaselineGenerator {
     public static void generateBaseline(String baselineDir, String outputJsonPath) {

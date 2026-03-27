@@ -1,18 +1,19 @@
 package monitoring1;
 
-import oshi.SystemInfo;
-import oshi.hardware.*;
-import oshi.software.os.OSProcess;
-import oshi.software.os.OperatingSystem;
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
-import java.util.*;
+import java.util.List;
 import java.util.stream.Collectors;
 
-import org.json.JSONArray;
 import org.json.JSONObject;
+
+import oshi.SystemInfo;
+import oshi.hardware.CentralProcessor;
+import oshi.hardware.GlobalMemory;
+import oshi.hardware.HWDiskStore;
+import oshi.software.os.OSProcess;
+import oshi.software.os.OperatingSystem;
 
 public class SystemResourceMonitor {
 
