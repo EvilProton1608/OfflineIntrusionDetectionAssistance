@@ -1,0 +1,34 @@
+===== Offline Intrusion Detection System Report =====
+Report Generated At: 2025-06-18 01:55:01
+
+Summary:
+Suspicious Files: 4
+High Entropy Files: 2
+Suspicious Processes: 0
+
+Suspicious Files:
+File: abc.txt
+Status: Changed
+Entropy: 3.6644977792004623
+High Entropy: false
+Hash: 941ee843724a9d43914ea9989ebcdfd5057e6922629d68a16cc02d859a07bb3f
+
+File: commons-codec-1.18.0-bin.zip
+Status: Known
+Entropy: 7.99684620375678
+High Entropy: true
+Hash: bb35f3b691624c04a1152e1a7ce32c0766fe33fb9692d36747dc955a62e5ef7f
+
+File: suspicious_scan.json
+Status: Unknown
+Entropy: 5.016696911130791
+High Entropy: false
+Hash: 6b8f716722d8ed97b6d22efd821fc489682b438edace9a24792f006a62cc2ec7
+
+File: Toursitcrowdmanagement.zip
+Status: Known
+Entropy: 7.991579013348256
+High Entropy: true
+Hash: 20aef64e74bb1102b84f8beffb44927c319376c3ad902215e7c5f871cd01ddff
+
+Suspicious Processes:

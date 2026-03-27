@@ -1,0 +1,39 @@
+{
+  "summary": {
+    "suspiciousProcessCount": 0,
+    "suspiciousFileCount": 4,
+    "highEntropyFileCount": 2
+  },
+  "suspiciousProcesses": [],
+  "suspiciousFiles": [
+    {
+      "fileName": "abc.txt",
+      "entropy": 3.6644977792004623,
+      "highEntropy": false,
+      "hash": "941ee843724a9d43914ea9989ebcdfd5057e6922629d68a16cc02d859a07bb3f",
+      "status": "Changed"
+    },
+    {
+      "fileName": "commons-codec-1.18.0-bin.zip",
+      "entropy": 7.99684620375678,
+      "highEntropy": true,
+      "hash": "bb35f3b691624c04a1152e1a7ce32c0766fe33fb9692d36747dc955a62e5ef7f",
+      "status": "Known"
+    },
+    {
+      "fileName": "suspicious_scan.json",
+      "entropy": 5.008711536939206,
+      "highEntropy": false,
+      "hash": "552f92d70a39604f63d1dc265168c38f0ea238994cbbb5bda98adddb2d95bce3",
+      "status": "Unknown"
+    },
+    {
+      "fileName": "Toursitcrowdmanagement.zip",
+      "entropy": 7.991579013348256,
+      "highEntropy": true,
+      "hash": "20aef64e74bb1102b84f8beffb44927c319376c3ad902215e7c5f871cd01ddff",
+      "status": "Known"
+    }
+  ],
+  "reportGeneratedAt": "2025-06-16 16:23:37"
+}

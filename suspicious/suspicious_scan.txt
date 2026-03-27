@@ -1,0 +1,16 @@
+==== Suspicious File Scan Report ====
+
+File: suspicious_scan.json
+Hash: 0f03fdb86f2a015d02134a095aa6c7ffa15608b30a374df8caa9092693548cff
+Entropy: 4.968052458729004
+High Entropy: false
+Status: Unknown
+----------------------------------------------------
+File: suspicious_scan.txt
+Hash: b77e5a7a9bfee653de7c0b169d169efc176fb9dcb01993472392fe0eb9045baa
+Entropy: 4.822020900910653
+High Entropy: false
+Status: Unknown
+----------------------------------------------------
+Total files scanned: 2
+Suspicious files found: 2

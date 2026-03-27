@@ -1,0 +1,12 @@
+[2025-06-18T13:46:22.960922700] High Memory Processes:
+PID: 10004 | Name: eclipse | RAM: 717.12 MB | CPU: 8.38%
+PID: 3388 | Name: Memory Compression | RAM: 991.86 MB | CPU: 0.71%
+
+[2026-03-27T15:39:12.496295900] High Memory Processes:
+PID: 3244 | Name: Memory Compression | RAM: 573.72 MB | CPU: 0.02%
+PID: 23752 | Name: Code | RAM: 959.74 MB | CPU: 2.05%
+
+[2026-03-27T15:41:38.004043800] High Memory Processes:
+PID: 3244 | Name: Memory Compression | RAM: 574.41 MB | CPU: 0.02%
+PID: 23752 | Name: Code | RAM: 923.17 MB | CPU: 2.19%
+

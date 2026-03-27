@@ -1,0 +1,16 @@
+[
+  {
+    "fileName": "suspicious_scan.json",
+    "entropy": 4.968052458729004,
+    "highEntropy": false,
+    "hash": "0f03fdb86f2a015d02134a095aa6c7ffa15608b30a374df8caa9092693548cff",
+    "status": "Unknown"
+  },
+  {
+    "fileName": "suspicious_scan.txt",
+    "entropy": 4.822020900910653,
+    "highEntropy": false,
+    "hash": "b77e5a7a9bfee653de7c0b169d169efc176fb9dcb01993472392fe0eb9045baa",
+    "status": "Unknown"
+  }
+]
